@@ -1,0 +1,3 @@
+FPS = 60
+WIDTH = 770
+HEIGHT = 770
